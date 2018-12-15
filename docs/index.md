@@ -1,6 +1,6 @@
 ---
 title: mrchat
-layout: page
+layout: post
 ---
 
 123
